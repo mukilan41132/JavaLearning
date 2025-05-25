@@ -1,0 +1,19 @@
+
+
+# IntelliJ
+.idea/
+*.iml
+
+# === Build directories ===
+/out/
+/build/
+/target/
+/bin/
+
+# Gradle
+.gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
